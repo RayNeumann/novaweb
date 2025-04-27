@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0A0A0A;
+  font-family: 'Poppins', sans-serif;
+  color: #F0F8FF;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.logo {
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: #00BFFF;
+}
+
+#slogan {
+  font-size: 1.2em;
+  color: #B0BEC5;
+  margin-top: 10px;
+}
